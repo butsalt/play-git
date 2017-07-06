@@ -24,7 +24,7 @@
   p3
 ```
 
-  git revert HEAD^
+  **git revert HEAD^**
 
   理想状态是文件从
 
