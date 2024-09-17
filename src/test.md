@@ -7,5 +7,3 @@ pc
 pd
 
 pe
-
-ccc
